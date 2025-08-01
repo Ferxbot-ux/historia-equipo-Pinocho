@@ -1,0 +1,1 @@
+print ("Parte 1: Pinocho era un niño de madera que quería ser un niño de verdad.")
